@@ -1,0 +1,7 @@
+*.o
+
+my_program
+
+*.tmp
+
+*.swp
